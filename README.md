@@ -1,4 +1,4 @@
-# Mutiplexed Status
+# muxst
 
 **muxst** is a simple utility for combining the continuous output of several subprocesses into a single formatted outputted.
 The subprocesses must output newline deliminated strings.
